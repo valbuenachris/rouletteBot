@@ -1,6 +1,5 @@
 <?php
 
-     
     $host = 'localhost';
     $db   = 'db_name';
     $user = 'db_user';
