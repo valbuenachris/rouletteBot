@@ -109,7 +109,7 @@ function cero($pdo, $from) {
         return "cURL Error #:" . $err;
     }
 
-    
+   
 
     /*/////////////   MENSAJE 2   ////////////*/
 
